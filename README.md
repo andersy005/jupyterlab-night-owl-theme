@@ -1,4 +1,4 @@
-![Github Actions Status](https://github.com/andersy005/night-owl-jupyterlab-theme/workflows/CI/badge.svg?style=for-the-badge)
+![Github Actions Status](https://github.com/andersy005/night-owl-jupyterlab-theme/workflows/CI/badge.svg)
 
 <div align="center">
 <img height="64" width="64" alt="owl" src="https://i.imgur.com/iL6cZ25.png" /></a>
