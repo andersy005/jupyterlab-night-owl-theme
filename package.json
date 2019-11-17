@@ -1,5 +1,5 @@
 {
-  "name": "night-owl",
+  "name": "@andersy005/night-owl",
   "version": "0.1.0",
   "description": "A Jupyterlab theme for the night owls out there!",
   "keywords": [
@@ -41,6 +41,7 @@
     "style/*.css"
   ],
   "jupyterlab": {
-    "extension": true
+    "extension": true,
+    "themePath": "style/index.css"
   }
 }

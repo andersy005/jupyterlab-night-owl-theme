@@ -17,7 +17,7 @@ Adaption of [@sdras](https://github.com/sdras/)' [Night Owl VS Code theme](https
 ## Install
 
 ```bash
-jupyter labextension install night-owl
+jupyter labextension install @andersy005/night-owl
 ```
 
 ## Contributing
@@ -55,5 +55,5 @@ jupyter lab --watch
 ### Uninstall
 
 ```bash
-jupyter labextension uninstall night-owl
+jupyter labextension uninstall @andersy005/night-owl
 ```
