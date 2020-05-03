@@ -1,4 +1,6 @@
-![Github Actions Status](https://github.com/andersy005/night-owl-jupyterlab-theme/workflows/CI/badge.svg)
+# jupyterlab-night-owl-theme
+
+![Github Actions Status](https://github.com/andersy005/jupyterlab-night-owl-theme/workflows/Build/badge.svg)
 
 <div align="center">
 <img height="64" width="64" alt="owl" src="https://i.imgur.com/iL6cZ25.png" /></a>
@@ -12,12 +14,12 @@ Adaption of [@sdras](https://github.com/sdras/)' [Night Owl VS Code theme](https
 
 ## Requirements
 
-- JupyterLab >= 1.0
+- JupyterLab >= 2.0
 
 ## Install
 
 ```bash
-jupyter labextension install @andersy005/night-owl
+jupyter labextension install jupyterlab-night-owl-theme
 ```
 
 ## Contributing
@@ -30,7 +32,8 @@ The `jlpm` command is JupyterLab's pinned version of
 
 ```bash
 # Clone the repo to your local environment
-# Move to night-owl directory
+# Move to jupyterlab-night-owl-theme directory
+
 # Install dependencies
 jlpm
 # Build Typescript source
@@ -55,5 +58,6 @@ jupyter lab --watch
 ### Uninstall
 
 ```bash
-jupyter labextension uninstall @andersy005/night-owl
+
+jupyter labextension uninstall jupyterlab-night-owl-theme
 ```
